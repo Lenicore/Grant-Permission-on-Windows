@@ -5,7 +5,6 @@ Take Ownership of files/folder
 
 Run CMD as Administrator
 
-```
 
 ### Method
 
